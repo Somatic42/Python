@@ -1,4 +1,3 @@
-# практическая
 def task_1():
     massive = [["Строка №", "Столбец 1", "Столбец 2", "Столбец 3", "Столбец 4", "Столбец 5"],
             ["1", "folder", "coursework.doc", "folder", "pict.png", "data.accdb"],
